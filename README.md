@@ -1,11 +1,13 @@
 # mygdal
-我的GDAL
+我的 GDAL 2.4.0 release 2018/12/14
 
 
 Usage:<br>
 <ul>
-    <li>1. Append PATH to C:\mygdal\GDAL</li>
-    <li>2. Append GDAL_DATA to C:\mygdal\GDAL\gdal-data</li>
+	<li>1. git clone https://github.com/shadowjohn/mygdal.git  建議可以在 D:\tools 之類的空間</li>
+	<li>2. 使用系統管理員執行 install.bat</li>
+    <li>3. 加環境變數 PATH C:\GDAL</li>
+    <li>4. 加環境變數 GDAL_DATA C:\GDAL\gdal-data</li>
 </ul>
 <br>
 ChangeLog:<br>
